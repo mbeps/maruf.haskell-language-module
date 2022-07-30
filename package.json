@@ -1,0 +1,16 @@
+{
+    "name": "haskell-language-module",
+    "displayName": "Haskell Language Module",
+    "description": "Module containing extensions for Haskell development ",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
