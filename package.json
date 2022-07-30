@@ -11,6 +11,9 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "justusadam.language-haskell",
+        "haskell.haskell",
+        "phoityne.phoityne-vscode",
+        "hoovercj.haskell-linter"
     ]
 }
